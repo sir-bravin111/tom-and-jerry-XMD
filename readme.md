@@ -32,7 +32,7 @@
   <a href="https://audi-session-gen.onrender.com" target="_blank" rel="noopener noreferrer">
     <img title="GET SESSION OPT 1" src="https://img.shields.io/badge/🔑_GET_WHATSAPP_SESSION-000000?style=for-the-badge&logo=quantum&logoColor=white&color=skyblue" width="260" height="50"/>
   </a>
-  <a href="https://dashboard.heroku.com/new?template=https://github.com/sirbravine/new-bot" target="_blank" rel="noopener noreferrer">
+  <a href="https://dashboard.heroku.com/new?template=https://github.com/sir-bravin111/tom-and-jerry-XMD" target="_blank" rel="noopener noreferrer">
     <img title="DEPLOY WHATSAPP BOT" src="https://img.shields.io/badge/🚀_DEPLOY_ON_HEROKU-000000?style=for-the-badge&logo=heroku&logoColor=red&color=FF00FF" width="260" height="50"/>
   </a>
 </p>
