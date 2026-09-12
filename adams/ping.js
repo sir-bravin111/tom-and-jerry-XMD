@@ -53,7 +53,7 @@ adams(
     await zk.sendMessage(dest, {
       text: `*${randomTechEmoji()} NETWORK PERFORMANCE ${randomTechEmoji()}*\n\n` +
             `🕒 System Time: ${getSystemTime()}\n` +
-            `▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰\n` +
+            `▰▰▰▰▰▰▰▰bravin▰▰▰▰▰▰▰▰\n` +
             `⚡ Response: ${responseTime}ms ${statusEmoji}\n` +
             `📶 Quality: ${speedRating}\n\n` +
             `🔧 Core Metrics:\n` +
